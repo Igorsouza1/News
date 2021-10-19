@@ -5,12 +5,12 @@
 
 .headerContent{
     max-width: 1120px;
-    // height: 5rem;
+    height: 5rem;
     margin: 0 auto;
     padding: 0 3rem;
 
     display: flex;
-    text-align: center;
+    align-items: center;
 
     nav{
         margin-left: 5rem;
@@ -54,6 +54,5 @@
     
     button {
         margin-left: auto;
-        margin-top: 1rem;
     }
 }
