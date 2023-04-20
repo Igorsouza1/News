@@ -16,12 +16,15 @@ iGnews é uma aplicação web para assinatura de conteúdo, onde os usuários po
 ## 🚀 Executando o projeto
 
 1. Clone o repositório:
-  git clone https://github.com/seu_usuario/ignews.git
+
+git clone https://github.com/seu_usuario/ignews.git
 
 2. Instale as dependências:
+
 npm install
 
-3 .Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
+
 npm run dev
 
 Acesse a aplicação em http://localhost:3000
